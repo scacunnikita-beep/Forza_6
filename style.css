@@ -1170,7 +1170,6 @@ a {
     }
 
     .header {
-        flex-direction: column;
         align-items: center;
     }
 
